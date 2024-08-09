@@ -1,0 +1,2 @@
+# PersonalJobSearchManagementSystem02
+ 基于SSM的个人求职管理系统
